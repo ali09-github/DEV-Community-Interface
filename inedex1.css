@@ -1,0 +1,20 @@
+.form-group input {
+    font-family: Arial, Helvetica, sans-serif
+    text-align: center;
+    display: block;
+    width: 220px;
+    border: 2px solid rgb(83, 79, 79);
+    font-size: 14px;
+    border-radius: 8px;
+    float: right;
+    position: relative;
+    bottom: 40px;
+    right: 65px;
+}
+.search-icon {
+    cursor: pointer;
+    float: right;
+    position: relative;
+    bottom: 33px;
+    left: 150px;
+}

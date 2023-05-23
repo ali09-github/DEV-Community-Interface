@@ -1,0 +1,116 @@
+.form-group input {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: block;
+    width: 220px;
+    border: 2px solid rgb(83, 79, 79);
+    font-size: 14px;
+    border-radius: 8px;
+    float: right;
+    position: relative;
+    bottom: 40px;
+    right: 65px;
+}
+.search-icon {
+    cursor: pointer;
+    float: right;
+    position: relative;
+    bottom: 33px;
+    left: 150px;
+}
+.bodycl {
+    background-image: url(bG.JPG.jpg);
+    
+}
+.pa{
+display: inline;
+ color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+p::first-letter {
+    color: #7e2e2e;
+    font-size: xx-large;
+  }
+#rcorners3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 15px 50px;
+    background: gray;
+    border: 2px solid blanchedalmond;
+    padding: 30px;
+    margin: 10px; 
+    width: 310px;
+    height: 220px; 
+    position: absolute;
+    right: 60px;
+    top: 465px;
+    
+  } 
+  p{
+      text-align: justify;
+      
+  }
+  #maindiv{
+    position: relative;
+    top: 95px;
+    margin: auto;
+      height: 300px;
+      width: 900px;
+      background-color: rgb(215 183 183);
+      
+  }
+  .div1{
+      
+      position: relative;
+      left: 63px;
+      top: 200px;
+
+  }
+  .div2{
+    position: relative;
+    left: 208px;
+    top: 174px;
+
+
+  }
+  .div3{
+    position: relative;
+    left: 430px;
+    top: 150px;
+
+  }
+  .div4{
+    position: relative;
+    left: 634px;
+    top: 128px;
+
+  }
+
+  .div5{
+    position: relative;
+    left: 656px;
+    top: 104px;
+
+  }
+  .div6{
+    position: relative;
+    left: 677px;
+    top: 79px;
+
+  }
+  img{
+    border-radius:40px;
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    position: relative;
+    left: 400px;
+    bottom: 34px;
+  }
+ .divimg{
+   display: block;
+
+
+ }
